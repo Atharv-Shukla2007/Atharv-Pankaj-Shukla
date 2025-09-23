@@ -2,7 +2,7 @@
 
 🎓 **First Year Engineering Student (s.E. Sem 3, NEP 2020)**  
 💡 Passionate about **Electronics, Coding, and Problem-Solving**  
-🌱 Currently learning **C Programming, Python, HTML/CSS, JavaScript 
+🌱 Currently learning **C Programming, Python, HTML/CSS, JavaScript**
 🚀 Exploring fields like **Web Development, AI/ML, and Embedded Systems**  
 
 ---
