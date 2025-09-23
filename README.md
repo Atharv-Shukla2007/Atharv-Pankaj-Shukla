@@ -16,7 +16,7 @@
 
 - 💻 **Coding **:
   1) mini project of online video call conference
-  2) navigo (an smart travel and tourism webapp)
+  2) navigo (an smart travel and tourism webapp) -https://github.com/rohitpandit09/NaviGO-by-SKYEON.git
       
 
 ## 🌐 Connect with Me
