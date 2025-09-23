@@ -16,7 +16,7 @@
 
 - 💻 **Coding **:
   1) meetly(online video call)- conference-rohitpandit09/Java-Mini-Project-Meetly 
-  2) navigo (an smart travel and tourism webapp) -https://github.com/rohitpandit09/NaviGO-by-SKYEON.git
+  2) navigo (an smart travel and tourism webapp) -https://rohitpandit09.github.io/NaviGO-by-SKYEON/
       
 
 ## 🌐 Connect with Me
