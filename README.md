@@ -20,8 +20,8 @@
       
 
 ## 🌐 Connect with Me
-- GitHub:
-- LinkedIn:
+- GitHub: https://github.com/rohitpandit09/NaviGO-by-SKYEON.git
+- LinkedIn: 
 - Portfolio / Website: 
 ---
 
