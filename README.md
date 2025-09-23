@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Atharv Shukla  
 
-🎓 **First Year Engineering Student (s.E. Sem 3, NEP 2020)**  
-💡 Passionate about **Electronics, Coding, and Problem-Solving**  
+🎓 **Second Year Engineering Student (S.E. Sem 3, NEP 2020)**  
+💡 Passionate about **Coding, and Problem-Solving**  
 🌱 Currently learning **C Programming, Python, HTML/CSS, JavaScript**
 🚀 Exploring fields like **Web Development, AI/ML, and Embedded Systems**  
 
@@ -15,7 +15,7 @@
 ## 📂 Projects & Work
 
 - 💻 **Coding **:
-  1) mini project of online video call conference
+  1) meetly(online video call)- conference-rohitpandit09/Java-Mini-Project-Meetly 
   2) navigo (an smart travel and tourism webapp) -https://github.com/rohitpandit09/NaviGO-by-SKYEON.git
       
 
