@@ -20,7 +20,7 @@
       
 
 ## 🌐 Connect with Me
-- GitHub: https://github.com/rohitpandit09/NaviGO-by-SKYEON.git
+- GitHub:https://github.com/Atharv-Shukla2007
 - LinkedIn: 
 - Portfolio / Website: 
 ---
