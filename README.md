@@ -22,7 +22,7 @@
 
 ## 🌐 Connect with Me
 - GitHub:https://github.com/Atharv-Shukla2007
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/atharv-shukla-6988603aa
 - Portfolio / Website: 
 ---
 
